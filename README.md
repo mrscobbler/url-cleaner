@@ -1,4 +1,4 @@
-url-validator
+url-cleaner
 =============
 
 PHP URL Cleaner and Validator
